@@ -1,0 +1,9 @@
+{
+    "name": "vj999/assignment-system",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.10",
+        "pusher/pusher-php-server": "^7.2",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
